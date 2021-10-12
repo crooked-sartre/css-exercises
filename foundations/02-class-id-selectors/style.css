@@ -1,0 +1,20 @@
+p {
+    background-color: lightpink;
+    font-family: Verdana, sans-serif;
+}
+
+#blue-div {
+    color: blue;
+    font-size: 36px;
+}
+
+p,
+.big-text {
+    font-size: 24px;
+}
+
+#id-2 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
